@@ -9,6 +9,7 @@ Currently live in Taipei, Taiwan.
 Contact
 ---
 
+- [Twitter](https://twitter.com/zushenyan)
 - [Github](https://github.com/zushenyan)
 - [Linkedin](http://tw.linkedin.com/in/zushenyan)
 - [Blog](http://zushenyan.github.io/)
@@ -32,10 +33,8 @@ Sometimes I read these websites to help me to catch up the trend:
   - [/r/webdev](https://www.reddit.com/r/webdev/)
   - [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/)
 - [Tuts](https://tutsplus.com/)
-- [Code School](https://www.codeschool.com/)
-- [Treehouse](https://teamtreehouse.com/)
 - [Code Tengu](http://weekly.codetengu.com/)
-- follow whoever is an awesome programmer/developer on Twitter.
+- any awesome developer on Twitter.
 
 Current Skill Set
 ---
@@ -43,7 +42,7 @@ Current Skill Set
 - HTML5
   - Canvas
   - Audio
-  - Websocket/Socket.io
+  - Websocket
 - CSS
   - SASS/SCSS
   - Bootstrap
@@ -60,10 +59,10 @@ Current Skill Set
   - Backend
     - Node & Express
 - Build
-  - Gulp
-  - Browserify
-  - Webpack
+  - Gulp/Browserify/Webpack
 - Test
+  - Test Driven Development
+  - Unit Testing
   - Mocha + Chai + Sinon
 - CI
   - Travis
@@ -71,11 +70,12 @@ Current Skill Set
   - Git
 - Meta
   - Object Oriented Programming
+  - Functional Programming
   - Design Pattern
   - Data Structure
   - UML
 
-Other Skills
+Past Skills
 ---
 
 - Java
@@ -105,6 +105,17 @@ Working Environment
   - Vim
 - Command Line Interface
   - Bash/Zsh
+  
+Jobs
+===
+### Taroko Software
+Frontend Engineer
+
+2016/1 ~ present
+
+Responsible for implementing UI delivered by designers and collaborating with backend engineers for various product features. Also responsible for refactoring and giving improvement suggestions which cover from architecture to tool favoring.
+
+
 
 Works & Toys
 ---
