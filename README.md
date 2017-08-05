@@ -77,6 +77,9 @@ Skill Set
   - Travis
 - Version Control
   - Git
+- Business Analystic
+  - GA/GTM
+  - A/B testing
 - Meta
   - Object Oriented Programming
   - Functional Programming
@@ -118,10 +121,11 @@ Work Experience
 #### Senior Engineer (2017/1 ~ present)
 #### Frontend Engineer (2016/1 ~ 2017/1)
 
-Develop new features for websites with over 1 million users. Create campaigns, A/B testing and also help marketing teams wit h integrating business analysit tools. Besides these, I participate in architecture design for frontend team and mentoring juniors.
+Develop new features for websites with over 1 million users. Create campaigns, A/B testing and also help marketing teams with integrating business analysit tools. Besides these, I participate in architecture design for frontend team and mentoring juniors.
 
 Works & Toys
-===
+---
+
 - 2017
   - [graphql-sso-example](https://github.com/zushenyan/graphql-sso-example) - Toying with GraphQL and SSO.
 - 2015
@@ -152,6 +156,7 @@ Works & Toys
 
 Slides
 ---
+
 - [Progressive Web Application](https://docs.google.com/presentation/d/1T5eAtaEVUjp94oofMa-14c0BeE6coYtfEa0Vg27Coag/edit?usp=sharing) - Introduction to PWA.
 
 
