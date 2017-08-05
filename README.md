@@ -42,9 +42,7 @@ Skill Set
 ---
 
 - HTML5
-  - Multimetdia (Canvas, Audio)
-  - Progressive Web Application
-  - Web worker
+  - Modern API like service worker, web worker and multimetdia (Canvas, Audio)
   - Websocket
 - CSS
   - SASS/SCSS
