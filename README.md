@@ -9,6 +9,7 @@ Currently live in Taipei, Taiwan.
 Contact
 ---
 
+- [Facebook](https://www.facebook.com/zushen.yan)
 - [Twitter](https://twitter.com/zushenyan)
 - [Github](https://github.com/zushenyan)
 - [Linkedin](http://tw.linkedin.com/in/zushenyan)
@@ -17,53 +18,61 @@ Contact
 
 About Me
 ---
+A web developer, frontend engieer and software engieer who helps develop SaaS webistes with over 1 million users and create new services by integrating with various framework and tools.
 
-Started programming since I was 14. The reason is much the same as other programmers starting programming at young age - want to build games, yeah!
+Started programming since 14 year old due to the love of gaming. Have varies programming language exeperience like C/C++, Java, JavaScript, Python and others.
 
-First programming language is C, and had played around with languages like Java, C++, Python and blah after then.
-
-I am currently excited about how great the potential Web application has in near future, and decided to get involved in Web development field.
-
-Sometimes I read these websites to help me to catch up the trend:
-
+Love to learn new staff and catch up trend from these places:
 - [Hacker News](https://news.ycombinator.com/)
 - Reddit
   - [/r/programming](https://www.reddit.com/r/programming/)
   - [/r/javascript](https://www.reddit.com/r/javascript/)
   - [/r/webdev](https://www.reddit.com/r/webdev/)
   - [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/)
-- [Tuts](https://tutsplus.com/)
-- [Code Tengu](http://weekly.codetengu.com/)
-- any awesome developer on Twitter.
+- and tons of other site like [Tuts](https://tutsplus.com/) or [Code Tengu](http://weekly.codetengu.com/).
+- follow any other awesome developer in social media.
 
-Current Skill Set
+Speciality:
+- Frontend tech stack such as HTML/CSS/JS and modern frameworks.
+- Backend with Node.js and PostgresSQL.
+- A/B Testing and business analystic tool - GA/GTM.
+- Software testing like BDD/TDD.
+
+Skill Set
 ---
 
 - HTML5
-  - Canvas
-  - Audio
+  - Multimetdia (Canvas, Audio)
+  - Progressive Web Application
+  - Web worker
   - Websocket
 - CSS
   - SASS/SCSS
   - Bootstrap
-  - Responsive Web Design
+  - RWD (Responsive Web Design)
 - JavaScript
-  - Vanilla JS
-  - ES6
+  - ES8
   - Single Page Application
-    - React
-    - Flux/Redux
-  - Game Engine
-    - Cocos2d-JS
-    - Phaser
-  - Backend
-    - Node & Express
-- Build
+    - React/Redux, Vue
+- Backend
+  - Node & Express
+  - HTTP/HTTPS
+  - RPC, RESTful, GraphQL
+  - Monolithic
+  - Common security best practices
+- Database
+  - SQL
+    - MySQL/PostgresSQL
+  - NoSQL
+    - Redis
+- Deployement Platform
+  - Heroku
+- Bundling Tools
   - Gulp/Browserify/Webpack
 - Test
-  - Test Driven Development
+  - BDD/TDD
   - Unit Testing
-  - Mocha + Chai + Sinon
+  - Mocha/Jest/Karma
 - CI
   - Travis
 - Version Control
@@ -73,6 +82,7 @@ Current Skill Set
   - Functional Programming
   - Design Pattern
   - Data Structure
+  - Regexp
   - UML
 
 Past Skills
@@ -84,13 +94,8 @@ Past Skills
   - Django
 - PHP
 - Objective-C (iOS)
-- Database
-  - MySQL
-  - Redis
 - Deployment
-  - Heroku
   - Google App Engine
-- Regexp
 
 Working Environment
 ---
@@ -106,20 +111,19 @@ Working Environment
 - Command Line Interface
   - Bash/Zsh
   
-Jobs
+Work Experience
 ===
 ### Taroko Software
-Frontend Engineer
 
-2016/1 ~ present
+#### Senior Engineer (2017/1 ~ present)
+#### Frontend Engineer (2016/1 ~ 2017/1)
 
-Responsible for implementing UI delivered by designers and collaborating with backend engineers for various product features. Also responsible for refactoring and giving improvement suggestions which cover from architecture to tool favoring.
-
-
+Develop new features for websites with over 1 million users. Create campaigns, A/B testing and also help marketing teams wit h integrating business analysit tools. Besides these, I participate in architecture design for frontend team and mentoring juniors.
 
 Works & Toys
----
-
+===
+- 2017
+  - [graphql-sso-example](https://github.com/zushenyan/graphql-sso-example) - Toying with GraphQL and SSO.
 - 2015
   - [Predefined Color Picker](https://github.com/zushenyan/Predefined-Color-Picker) - A practice of MVC structure and flux. Pluggable anywhere. You can write your own view by implementing template!
   - [Fretboard Awesome](https://github.com/zushenyan/Fretboard-Awesome) - Plug an awesome fretboard in your website! Still under development.
@@ -145,6 +149,11 @@ Works & Toys
   - [BSP-Tree](https://github.com/zushenyan/BSP-Tree) - Java. Visualize how BSP-Tree works in 2D world.
   - [A-Star](https://github.com/zushenyan/a-star) - Java. Visualize how A-Star algorithm finds path on a custom map.
   - [Snake](https://github.com/zushenyan/Snake) - Java. A simple snake game.
+
+Slides
+---
+- [Progressive Web Application](https://docs.google.com/presentation/d/1T5eAtaEVUjp94oofMa-14c0BeE6coYtfEa0Vg27Coag/edit?usp=sharing) - Introduction to PWA.
+
 
 Education Background
 ---
