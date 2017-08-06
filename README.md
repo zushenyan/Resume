@@ -55,7 +55,7 @@ Skill Set
 - Backend
   - Node & Express
   - HTTP/HTTPS
-  - RPC, RESTful, GraphQL
+  - RESTful, GraphQL
   - Monolithic
   - Common security best practices
 - Database
