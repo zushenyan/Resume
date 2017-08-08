@@ -37,6 +37,7 @@ Speciality:
 - Backend with Node.js and PostgresSQL.
 - A/B Testing and business analystic tool - GA/GTM.
 - Software testing like BDD/TDD.
+- Experieneced Scrum as a team member.
 
 Skill Set
 ---
