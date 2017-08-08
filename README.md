@@ -162,7 +162,7 @@ Slides
 Education Background
 ---
 
-Study in Fu Jen Catholic University, Philosophy - graduation date estimated in 2016. (Currently study at night.)
+Fu Jen Catholic University - bachelor degree of philosophy.
 
 Certifications
 ---
