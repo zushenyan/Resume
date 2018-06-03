@@ -8,7 +8,6 @@ A frontend engineer/web developer currently lives in Taipei, Taiwan. I Have been
 
 - [Hacker News](https://news.ycombinator.com/)
 - [reddit/r/programming](https://www.reddit.com/r/programming/)
-- [reddit/r/javascript](https://www.reddit.com/r/javascript/)
 - [reddit/r/webdev](https://www.reddit.com/r/webdev/)
 
 Contact
