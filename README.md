@@ -106,6 +106,8 @@ Secondary Skills (used before/casually)
   - Objective C
     - iOS
 - devOps
+  - load balancer/ reverse proxy
+    - nginx
   - deployment
     - docker
     - kubernetes
