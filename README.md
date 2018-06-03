@@ -60,8 +60,7 @@ Core Skills:
 - nodejs
   - express
 - network
-  - http
-  - https
+  - http/https
   - websocket
 - API
   - Restful
@@ -91,7 +90,7 @@ Core Skills:
 
 ### Collaboration Tools
 - git
- - git flow
+  - git flow
 - SCRUM
 - JIRA
 - Slack
