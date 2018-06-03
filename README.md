@@ -26,7 +26,7 @@ Work Experience
 
 Develop cores libraries for frontend. Also involved in developing some backend or devops tasks. Methor juniors or new members.
 
-#### Frontend Engineer (2016 ~ 2017)
+#### Frontend Engineer (2016/1 ~ 2017)
 
 Develop websites which have over 1 million users. Involving creating campaign pages, setting up A/B testing or business analystic tools and other frontend day-to-day works.
 
