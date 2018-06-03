@@ -4,123 +4,130 @@ Resume
 Andrew Yan
 ---
 
-Currently live in Taipei, Taiwan.
+A frontend engineer/web developer currently lives in Taipei, Taiwan. I Have been coding since junior high shcool. The cause leads me to coding is making my own games, but later found it's also fun and challenging in web development. In my causal time I also love to read forums like below for anything new.
+
+- [Hacker News](https://news.ycombinator.com/)
+- [reddit/r/programming](https://www.reddit.com/r/programming/)
+- [reddit/r/javascript](https://www.reddit.com/r/javascript/)
+- [reddit/r/webdev](https://www.reddit.com/r/webdev/)
 
 Contact
 ---
 
-- [Facebook](https://www.facebook.com/zushen.yan)
-- [Twitter](https://twitter.com/zushenyan)
 - [Github](https://github.com/zushenyan)
 - [Linkedin](http://tw.linkedin.com/in/zushenyan)
 - [Blog](http://zushenyan.github.io/)
 - zushenyan@gmail.com
 
-About Me
+Work Experience
+===
+### Taroko Software (2016 ~ present)
+#### Senior Engineer (2017 ~ present)
+
+Develop cores libraries for frontend. Also involved in developing soem backend or devops tasks. Methor juniors or new members.
+
+#### Frontend Engineer (2016 ~ 2017)
+
+Develop websites which have over 1 million users. Involving creating campaign pages, setting up A/B testing or business analystic tools and other frontend day-to-day works.
+
+
+Core Skills:
 ---
-A web developer, frontend engieer and software engieer who helps develop SaaS webistes with over 1 million users and create new services by integrating with various framework and tools.
-
-Started programming since 14 year old due to the love of gaming. Have varies programming language exeperience like C/C++, Java, JavaScript, Python and others.
-
-Love to learn new staff and catch up trend from these places:
-- [Hacker News](https://news.ycombinator.com/)
-- Reddit
-  - [/r/programming](https://www.reddit.com/r/programming/)
-  - [/r/javascript](https://www.reddit.com/r/javascript/)
-  - [/r/webdev](https://www.reddit.com/r/webdev/)
-  - [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/)
-- and tons of other site like [Tuts](https://tutsplus.com/) or [Code Tengu](http://weekly.codetengu.com/).
-- follow any other awesome developer in social media.
-
-Speciality:
-- Frontend tech stack such as HTML/CSS/JS and modern frameworks.
-- Backend with Node.js and PostgresSQL.
-- A/B Testing and business analystic tool - GA/GTM.
-- Software testing like BDD/TDD.
-- Experieneced with Scrum as a team member.
-
-Skill Set
----
-
-- HTML5
-  - Modern API like service worker, web worker and multimetdia (Canvas, Audio)
-  - Websocket
+### Frontend
+- HTML 5
+  - API(Canvas/Audio/worker)
+  - websocket
 - CSS
   - SASS/SCSS
-  - Bootstrap
-  - RWD (Responsive Web Design)
+  - RWD (responsive web design)
 - JavaScript
-  - ES8
-  - Single Page Application
-    - React/Redux, Vue
-- Backend
-  - Node & Express
-  - HTTP/HTTPS
-  - RESTful, GraphQL
-  - Monolithic
-  - Common security best practices
-- Database
-  - SQL
-    - MySQL/PostgresSQL
-  - NoSQL
-    - Redis
-- Deployement Platform
-  - Heroku
-- Bundling Tools
-  - Gulp/Browserify/Webpack
-- Test
-  - BDD/TDD
-  - Unit Testing
-  - Mocha/Jest/Karma
-- CI
-  - Travis
-- Version Control
-  - Git
-- Business Analystic
-  - GA/GTM
-  - A/B testing
-- Meta
-  - Object Oriented Programming
-  - Functional Programming
-  - Design Pattern
-  - Data Structure
-  - Regexp
-  - UML
-
-Past Skills
----
-
-- Java
-- C/C++
-- Python
-  - Django
-- PHP
-- Objective-C (iOS)
-- Deployment
-  - Google App Engine
-
-Working Environment
----
-
+  - ES6+
+  - React and it's ecosystems
+  - SPA (Single Page Applicaton)
+- Pipeline tools
+  - gulp
+  - browserify
+  - webpack
+- testing
+  - jest
+  - mocha
+- analystic tools
+  - GA
+  - GTM
+  - HEAP
+  
+### Backend
+- nodejs
+  - express
+- network
+  - http
+  - https
+  - websocket
+- API
+  - Restful
+  - GraphQL
+  
+### Programming
+- Design patterns
+- Object oriented progamming
+- Functional programming
+- Data structure
+- Regexp
+- testing
+  - TDD/BDD
+  - unit testing
+  - integration testing
+  - end-to-end testing
+  
+### Work Environment
 - Operating System
   - Mac
   - Windows
 - Editor
-  - Atom
-  - Sublime Text
-  - Eclipse
   - Vim
+  - VSCode
 - Command Line Interface
   - Bash/Zsh
-  
-Work Experience
-===
-### Taroko Software
 
-#### Senior Engineer (2017/1 ~ present)
-#### Frontend Engineer (2016/1 ~ 2017/1)
+### Collaboration Tools
+- git
+ - git flow
+- SCRUM
+- JIRA
+- Slack
 
-Develop new features for websites with over 1 million users. Create campaigns, A/B testing and also help marketing teams with integrating business analysit tools. Besides these, I participate in architecture design for frontend team and mentoring juniors.
+Secondary Skills (used before/casually)
+---
+- programming lanuages
+  - Java
+    - J2SE
+  - Python
+    - django
+  - C/C++
+  - Objective C
+    - iOS
+- devOps
+  - deployment
+    - docker
+    - kubernetes
+  - CI/CD
+    - bambooCI
+    - travis
+  - host platform
+    - GAE (google app engine)
+    - heroku
+    - digital ocean
+    - AWS (amazon web service)
+  - monitor tools
+    - elastic stack
+    - prometheus & grafana
+- backend
+  - database
+    - mysql
+    - pos
+    - redis
+- meta
+  - UML
 
 Works & Toys
 ---
