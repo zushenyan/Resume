@@ -4,7 +4,7 @@ Resume
 Andrew Yan
 ---
 
-A frontend engineer/web developer currently lives in Taipei, Taiwan. I Have been coding since junior high shcool. The cause leads me to coding is making my own games, but later found it's also fun and challenging in web development. In my causal time I also love to read forums like below for anything new.
+A frontend engineer/web developer currently lives in Taipei, Taiwan. I Have been coding since junior high shcool. The cause leads me to coding is making my own games, but later found it's also fun and challenging in web development. In my causal time I also love to read forums like below for new things.
 
 - [Hacker News](https://news.ycombinator.com/)
 - [reddit/r/programming](https://www.reddit.com/r/programming/)
