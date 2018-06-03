@@ -24,7 +24,7 @@ Work Experience
 ### Taroko Software (2016 ~ present)
 #### Senior Engineer (2017 ~ present)
 
-Develop cores libraries for frontend. Also involved in developing soem backend or devops tasks. Methor juniors or new members.
+Develop cores libraries for frontend. Also involved in developing some backend or devops tasks. Methor juniors or new members.
 
 #### Frontend Engineer (2016 ~ 2017)
 
