@@ -41,7 +41,7 @@ Core Skills:
   - RWD (responsive web design)
 - JavaScript
   - ES6+
-  - React and it's ecosystems
+  - React and it's ecosystems (redux, redux-saga...)
   - SPA (Single Page Applicaton)
 - Pipeline tools
   - gulp
