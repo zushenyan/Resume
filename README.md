@@ -20,7 +20,7 @@ Employments
 - Providing advice and researching solutions for products needs.
 - Providing guidance and mentoring juniors.
 - Implementing A/B Testing for marketing experiments.
-- Writing core tools and establishing forntned rules.
+- Writing core tools and establishing rules for frontend.
 
 Core Skills
 ---
