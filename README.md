@@ -32,7 +32,7 @@ Core Skills
   - RWD (responsive web design)
 - JavaScript/ECMAScript
   - The latest standard of ECMAScript
-  - React/Vue (Mostly React)
+  - React (and its ecosystem)
 - Bundle Tools
   - Webpack/Gulp/Browserify
 - Test Frameworks
