@@ -15,14 +15,12 @@ Contact Information
 Employments
 ===
 ### Taroko Software (2016/1 ~ 2019/8)
-#### Senior Engineer (2017 ~ 2019/8)
-
-Develop cores libraries for frontend. Also involved in developing some backend or devops tasks. Methor juniors or new members.
-
-#### Frontend Engineer (2016/1 ~ 2017)
-
-Develop websites which have over 1 million users. Involving creating campaign pages, setting up A/B testing or business analystic tools and other frontend day-to-day works.
-
+#### Senior Frontend Engineer - full-time
+- Writing and maintaining frontned codes with HTML/CSS/JavaScript.
+- Providing advice and researching solutions for products needs.
+- Providing guidance and mentoring juniors.
+- Implementing A/B Testing for marketing experiments.
+- Writing core tools and establishing forntned rules.
 
 Core Skills
 ---
@@ -65,6 +63,12 @@ Core Skills
   - Integration Testing
   - End-to-End Testing
   
+### Collaboration Tools and Methodologies
+- Git
+  - Git Flow
+- SCRUM
+- JIRA
+  
 ### Work Environment
 - Operating System
   - Mac/Windows
@@ -72,12 +76,6 @@ Core Skills
   - Vim/VSCode
 - Command Line Interface
   - Bash/Zsh
-
-### Collaboration Related
-- Git
-  - Git Flow
-- SCRUM
-- JIRA
 
 Secondary Skills (amateur)
 ---
@@ -154,9 +152,9 @@ Slides
 Educations
 ---
 
-Fu Jen Catholic University - bachelor degree of philosophy.
+- Fu Jen Catholic University - bachelor degree of philosophy.
 
 Certifications
 ---
 
-- TOEIC 2013 - scored 710 in listening and reading.
+- TOEIC 2013 - scored 710.
