@@ -3,12 +3,7 @@ Resume
 
 Andrew Yan
 ---
-
-A frontend engineer/web developer currently lives in Taipei, Taiwan. I Have been coding since junior high shcool. The cause leads me to coding is making my own games, but later found it's also fun and challenging in web development. In my causal time I also love to read forums like below for new things.
-
-- [Hacker News](https://news.ycombinator.com/)
-- [reddit/r/programming](https://www.reddit.com/r/programming/)
-- [reddit/r/webdev](https://www.reddit.com/r/webdev/)
+A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humor. 
 
 Contact
 ---
@@ -20,8 +15,8 @@ Contact
 
 Work Experience
 ===
-### Taroko Software (2016 ~ present)
-#### Senior Engineer (2017 ~ present)
+### Taroko Software (2016/1 ~ 2019/8)
+#### Senior Engineer (2017 ~ 2019/8)
 
 Develop cores libraries for frontend. Also involved in developing some backend or devops tasks. Methor juniors or new members.
 
@@ -33,70 +28,61 @@ Develop websites which have over 1 million users. Involving creating campaign pa
 Core Skills:
 ---
 ### Frontend
-- HTML 5
-  - API(Canvas/Audio/worker)
-  - websocket
+- HTML
+  - web API: websocket/worker/...
 - CSS
   - SASS/SCSS
   - RWD (responsive web design)
-- JavaScript
-  - ES6+
-  - React and it's ecosystems (redux, redux-saga...)
-  - SPA (Single Page Applicaton)
-- Pipeline tools
-  - gulp
-  - browserify
-  - webpack
-- testing
-  - jest
-  - mocha
-- analystic tools
-  - GA
-  - GTM
-  - HEAP
+- JavaScript/ECMAScript
+  - The latest standard of ECMAScript
+  - React/Vue (Mostly React)
+- Pipeline/Bundle Tools
+  - Webpack/Gulp/Browserify
+- Test Frameworks
+  - Jest/Mocha
+- Analystic Tools
+  - GA/GTM/HEAP
+  - A/B Testing
   
 ### Backend
-- nodejs
-  - express
-- network
+- Nodejs
+  - Express
+- Network
   - http/https
   - websocket
 - API
-  - Restful
+  - RESTful
   - GraphQL
   
 ### Programming
 - Design patterns
-- Object oriented progamming
-- Functional programming
-- Data structure
-- Regexp
-- testing
+- OOP (Object Oriented Progamming)
+- FP (Functional programming)
+- Data Structures
+- Regular Expressions
+- Testing Concepts
   - TDD/BDD
-  - unit testing
-  - integration testing
-  - end-to-end testing
+  - Unit Testing
+  - Integration Testing
+  - End-to-End Testing
   
 ### Work Environment
 - Operating System
-  - Mac
-  - Windows
+  - Mac/Windows
 - Editor
-  - Vim
-  - VSCode
+  - Vim/VSCode
 - Command Line Interface
   - Bash/Zsh
 
-### Collaboration Tools
-- git
-  - git flow
+### Collaboration Related
+- Git
+  - Git Flow
 - SCRUM
 - JIRA
-- Slack
 
-Secondary Skills (used before/casually)
+Secondary Skills (amateur)
 ---
-- programming lanuages
+- Programming Lanuages
   - Java
     - J2SE
   - Python
@@ -104,32 +90,31 @@ Secondary Skills (used before/casually)
   - C/C++
   - Objective C
     - iOS
-- devOps
-  - load balancer/ reverse proxy
+- DevOps
+  - Reverse proxy
     - nginx
-  - deployment
+  - Deployment
     - docker
     - kubernetes
   - CI/CD
     - bambooCI
     - travis
-  - host platform
-    - GAE (google app engine)
-    - heroku
-    - digital ocean
+  - Hosting
     - AWS (amazon web service)
-  - monitor tools
-    - elastic stack
+    - Heroku
+    - Digital Ocean
+    - GAE (google app engine)
+  - Appliaction Performance Monitor
+    - Elastic Stack
     - prometheus & grafana
-- backend
-  - database
+  - Database
     - mysql
     - pos
     - redis
-- meta
+- Meta
   - UML
 
-Works & Toys
+Side Projects
 ---
 
 - 2017
@@ -166,7 +151,7 @@ Slides
 - [Progressive Web Application](https://docs.google.com/presentation/d/1T5eAtaEVUjp94oofMa-14c0BeE6coYtfEa0Vg27Coag/edit?usp=sharing) - Introduction to PWA.
 
 
-Education Background
+Educations
 ---
 
 Fu Jen Catholic University - bachelor degree of philosophy.
