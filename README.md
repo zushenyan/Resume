@@ -2,6 +2,7 @@ Andrew Yan
 ---
 A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humors.
 
+Here are pages about me:
 - [Github](https://github.com/zushenyan)
 
 Contact Informations
@@ -113,7 +114,7 @@ Secondary Skills (amateur)
 - Meta
   - UML
 
-Side Projects
+Personal Projects
 ---
 
 - 2017
