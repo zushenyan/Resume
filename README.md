@@ -30,8 +30,9 @@ Core Skills
 - CSS
   - SASS/SCSS
   - RWD (responsive web design)
-- JavaScript/ECMAScript
+- JavaScript
   - The latest standard of ECMAScript
+  - TypeScript
   - React (and its ecosystem)
 - Bundle Tools
   - Webpack/Gulp/Browserify
