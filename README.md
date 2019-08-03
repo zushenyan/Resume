@@ -2,7 +2,7 @@ Andrew Yan
 ---
 A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humors.
 
-Here are pages about me:
+Here are pages related to me:
 - [Github](https://github.com/zushenyan)
 
 Contact Information
