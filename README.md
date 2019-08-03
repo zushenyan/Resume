@@ -5,7 +5,7 @@ A self-taught software engineer since 14. Coding in spare time sometimes. Love t
 Here are pages about me:
 - [Github](https://github.com/zushenyan)
 
-Contact Informations
+Contact Information
 ---
 
 - zushenyan@gmail.com
