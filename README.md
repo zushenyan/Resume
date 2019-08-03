@@ -17,10 +17,10 @@ Employments
 ### Taroko Software (2016/1 ~ 2019/8)
 #### Senior Frontend Engineer - full-time
 - Writing and maintaining frontned codes with HTML/CSS/JavaScript.
+- Writing core tools and establishing rules for frontend.
 - Providing advice and researching solutions for products needs.
 - Providing guidance and mentoring juniors.
 - Implementing A/B Testing for marketing experiments.
-- Writing core tools and establishing rules for frontend.
 
 Core Skills
 ---
