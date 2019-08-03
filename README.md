@@ -1,19 +1,17 @@
-Resume
-======
-
 Andrew Yan
 ---
-A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humor. 
-
-Contact
----
+A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humors.
 
 - [Github](https://github.com/zushenyan)
-- [Linkedin](http://tw.linkedin.com/in/zushenyan)
-- [Blog](http://zushenyan.github.io/)
-- zushenyan@gmail.com
 
-Work Experience
+Contact Informations
+---
+
+- zushenyan@gmail.com
+- [Linkedin](http://tw.linkedin.com/in/zushenyan)
+
+
+Employments
 ===
 ### Taroko Software (2016/1 ~ 2019/8)
 #### Senior Engineer (2017 ~ 2019/8)
@@ -25,18 +23,18 @@ Develop cores libraries for frontend. Also involved in developing some backend o
 Develop websites which have over 1 million users. Involving creating campaign pages, setting up A/B testing or business analystic tools and other frontend day-to-day works.
 
 
-Core Skills:
+Core Skills
 ---
 ### Frontend
 - HTML
-  - web API: websocket/worker/...
+  - websocket/worker/...common Web APIs
 - CSS
   - SASS/SCSS
   - RWD (responsive web design)
 - JavaScript/ECMAScript
   - The latest standard of ECMAScript
   - React/Vue (Mostly React)
-- Pipeline/Bundle Tools
+- Bundle Tools
   - Webpack/Gulp/Browserify
 - Test Frameworks
   - Jest/Mocha
@@ -69,7 +67,7 @@ Core Skills:
 ### Work Environment
 - Operating System
   - Mac/Windows
-- Editor
+- IDE
   - Vim/VSCode
 - Command Line Interface
   - Bash/Zsh
@@ -86,19 +84,19 @@ Secondary Skills (amateur)
   - Java
     - J2SE
   - Python
-    - django
+    - Django
   - C/C++
   - Objective C
     - iOS
 - DevOps
   - Reverse proxy
-    - nginx
+    - Nginx
   - Deployment
-    - docker
-    - kubernetes
+    - Docker
+    - Kubernetes
   - CI/CD
-    - bambooCI
-    - travis
+    - BambooCI
+    - Travis
   - Hosting
     - AWS (amazon web service)
     - Heroku
@@ -106,11 +104,12 @@ Secondary Skills (amateur)
     - GAE (google app engine)
   - Appliaction Performance Monitor
     - Elastic Stack
-    - prometheus & grafana
+    - Prometheus & Grafana
   - Database
-    - mysql
-    - pos
-    - redis
+    - Mysql
+    - Postgres
+  - Memory Cache
+    - Redis
 - Meta
   - UML
 
