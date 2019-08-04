@@ -25,97 +25,28 @@ Employments
 Core Skills
 ---
 ### Frontend
-- HTML
-  - websocket/worker/...common Web APIs
-- CSS
-  - SASS/SCSS
-  - RWD (responsive web design)
-- JavaScript
-  - The latest standard of ECMAScript
-  - TypeScript
-  - React (and its ecosystem)
-- Bundle Tools
-  - Webpack/Gulp/Browserify
-- Test Frameworks
-  - Jest/Mocha
-- Analystic Tools
-  - GA/GTM/HEAP
-  - A/B Testing
+- HTML, CSS, JavaScript, TypeScript, React, Webpack, Gulp, Browserify, Jest, Google Analystic, Google Tag Manager, Heap, A/B Testing
   
 ### Backend
-- Nodejs
-  - Express
-- Network
-  - http/https
-  - websocket
-- API
-  - RESTful
-  - GraphQL
+- Nodejs, Websocket, RESTful (Swagger), Graphql
   
-### Programming
-- Design patterns
-- OOP (Object Oriented Progamming)
-- FP (Functional programming)
-- Data Structures
-- Regular Expressions
-- Testing Concepts
-  - TDD/BDD
-  - Unit Testing
-  - Integration Testing
-  - End-to-End Testing
-  
-### Collaboration Tools and Methodologies
-- Git
-  - Git Flow
-- SCRUM
-- JIRA
-  
-### Work Environment
-- Operating System
-  - Mac/Windows
-- IDE
-  - Vim/VSCode
-- Command Line Interface
-  - Bash/Zsh
+### General Concenpts and Tools
+- Design Patterns, Object Oriented Progamming, Functional programming, Data Structures, Regular Expressions, TDD/BDD, Unit Testing, Integration Testing, End-to-End Testing, Git, Scrum, JIRA
 
 Secondary Skills (amateur)
 ---
 - Programming Lanuages
-  - Java
-    - J2SE
-  - Python
-    - Django
-  - C/C++
-  - Objective C
-    - iOS
-- DevOps
-  - Reverse proxy
-    - Nginx
-  - Deployment
-    - Docker
-    - Kubernetes
-  - CI/CD
-    - BambooCI
-    - Travis
-  - Hosting
-    - AWS (amazon web service)
-    - Heroku
-    - Digital Ocean
-    - GAE (google app engine)
-  - Appliaction Performance Monitor
-    - Elastic Stack
-    - Prometheus & Grafana
-  - Database
-    - Mysql
-    - Postgres
-  - Memory Cache
-    - Redis
+  - Java, Python, C/C++/ Objective C
+- DevOps/Backend
+  - Nginx, Docker, Kubernates, BamboCI, Travis, Amazon Web Service, Heroku, Digital Ocean, Elastic Stack, Prometheus & Grafana, MySql, Postgres, Redis
 - Meta
   - UML
 
 Personal Projects
 ---
 
+- 2019
+  - [frontend-monorepo](https://github.com/zushenyan/frontend-monorepo) - a demonstration of how to do the monorepo for frontend project.
 - 2017
   - [graphql-sso-example](https://github.com/zushenyan/graphql-sso-example) - Toying with GraphQL and SSO.
 - 2015
@@ -123,26 +54,6 @@ Personal Projects
   - [Fretboard Awesome](https://github.com/zushenyan/Fretboard-Awesome) - Plug an awesome fretboard in your website! Still under development.
   - [Guitar Scale Builder](https://github.com/zushenyan/Guitar-Scale-Builder) - Made with custom widgets and Twitter Bootstrap.
   - [NRChat](https://github.com/zushenyan/NRChat) - A chat room demonstration. Backend with Node & Express, frontend with React & Redux, Socket.io.
-
-- 2013
-  - [SRSHME](https://github.com/zushenyan/SRSHME) - Demonstrating how realtime syntax highlight editor is possible in browser.
-  - [Match3Gem](https://github.com/zushenyan/Match3Gem) - A match-3 game. It was originally written in Cocos2d-JS in 2013, and was latter rewritten with Phaser.
-  - [HTML5 Realtime Multiplayer Demo](https://github.com/zushenyan/HTML5-realtime-multiplayer-demo) - A demonstration how multiplayer game is possible on modern browser. Use Coroutine concurrent structure on backend, socket.io and HTML5 canvas on frontend.
-
-- 2012
-  - [HTML5 TicTacToe](https://github.com/zushenyan/HTML5-TicTacToe) - A practice of some HTML5 technologies, canvas and audio involved.
-
-- 2011
-  - [GAE-Blog](https://github.com/zushenyan/GAE-Blog) - A totally hand-made personal blog with Python + Django deployed on Google App Engine.
-  - [iOS-MyTicTacToe](https://github.com/zushenyan/iOS-MyTicTacToe) - Obj-C. An simple iOS 5 TicTacToe game.
-
-- 2010
-  - [ncurses-TicTacToe](https://github.com/zushenyan/ncurses-TicTacToe) - C++. TicTacToe with ncurses in your command line.
-
-- 2009
-  - [BSP-Tree](https://github.com/zushenyan/BSP-Tree) - Java. Visualize how BSP-Tree works in 2D world.
-  - [A-Star](https://github.com/zushenyan/a-star) - Java. Visualize how A-Star algorithm finds path on a custom map.
-  - [Snake](https://github.com/zushenyan/Snake) - Java. A simple snake game.
 
 Slides
 ---
