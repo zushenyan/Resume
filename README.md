@@ -1,6 +1,8 @@
 Andrew Yan
 ---
-A self-taught software engineer since 14. Coding in spare time sometimes. Love to learn and read technology stuffs, expecially programming humors.
+A self-taught programmer since 14-year-old. 
+
+Started as a software engineer in a Taiwan company which develops products with millions of users around the world. During that time, I built and maintained single page applications with HTML/CSS/JavaScript and various edge frontend technologies in day-to-day tasks, along with special ones like creating A/B tests and researching solutions to improve products and engineering quality.
 
 Here are pages related to me:
 - [Github](https://github.com/zushenyan)
