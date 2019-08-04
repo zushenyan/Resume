@@ -52,8 +52,8 @@ Personal Projects
 - 2017
   - [graphql-sso-example](https://github.com/zushenyan/graphql-sso-example) - Toying with GraphQL and SSO.
 - 2015
-  - [Predefined Color Picker](https://github.com/zushenyan/Predefined-Color-Picker) - A practice of MVC structure and flux. Pluggable anywhere. You can write your own view by implementing template!
-  - [Fretboard Awesome](https://github.com/zushenyan/Fretboard-Awesome) - Plug an awesome fretboard in your website! Still under development.
+  - [Predefined Color Picker](https://github.com/zushenyan/Predefined-Color-Picker) - A practice of MVC structure and flux. It’s pluggable at anywhere. You can write your own view by implementing template!
+  - [Fretboard Awesome](https://github.com/zushenyan/Fretboard-Awesome) - Plug an awesome fretboard in your website!
   - [Guitar Scale Builder](https://github.com/zushenyan/Guitar-Scale-Builder) - Made with custom widgets and Twitter Bootstrap.
   - [NRChat](https://github.com/zushenyan/NRChat) - A chat room demonstration. Backend with Node & Express, frontend with React & Redux, Socket.io.
 
